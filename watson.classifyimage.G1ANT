@@ -1,0 +1,7 @@
+addon watson version 4.103.0.0
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+♥apiKey = i8x5ri32VdHocbN0uIm5-ykhTzX_VQJ1q9XWdlkdg0cR
+♥serverUri = https://gateway.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19
+watson.classifyimage C:\Users\shubham\Desktop\image.jfif apikey ♥apiKey serveruri ♥serverUri
+dialog ♥result
